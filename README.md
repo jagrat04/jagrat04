@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm JAGRAT </h1>
 <a class="libutton" href="https://www.linkedin.com/in/jagrat-singh-chandel/" target="_blank" style="display: flex;flex-direction: column;justify-content: center;padding: 7px;text-align: center;outline: none;width: 200px;height: 32px;border-radius: 16px;background-color: #0A66C2;font-family: &quot;SF Pro Text&quot;, Helvetica, sans-serif;text-decoration: none !important;color: #ffffff !important;">Follow on LinkedIn</a>
-<h3 align="center">A passionate Fullstack Developer from India</h3>
+<h3 align="center">A Developer from India</h3>
 
 - 🌱 I’m currently learning **Maven, JAVA ,DSA**
 
