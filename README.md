@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available [Here](https://github.com/jagrat04)
 
-- 💬 Ask me about **MERN Stack, ML and Cloud Tech**
+- 💬 Ask me about **MERN Stack, ML and DevOps**
 
 - 📫 Reach me at **jagrat.singh.ug23@nsut.ac.in**
 
